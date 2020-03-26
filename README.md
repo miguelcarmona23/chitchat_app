@@ -9,4 +9,4 @@ This is a instant messaging chat app that uses a custom-made UI and with websock
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Node.js](https://nodejs.org/)
 * [Express](https://expressjs.com/)
-* [Socket.io](https://socket.io/)
+* [Socket.io](https://socket.io/)# chitchat
