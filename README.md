@@ -10,4 +10,3 @@ This is a instant messaging chat app that uses a custom-made UI and with websock
 * [Node.js](https://nodejs.org/)
 * [Express](https://expressjs.com/)
 * [Socket.io](https://socket.io/)
-# ChitChat-App
