@@ -16,5 +16,6 @@
     },
     "devDependencies": {
         "nodemon": "^2.0.2"
-    }
+    },
+    "homepage": "https://chitchat-app.netlify.app/"
 }
